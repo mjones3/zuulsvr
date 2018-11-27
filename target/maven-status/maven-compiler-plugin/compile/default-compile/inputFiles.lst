@@ -1,0 +1,9 @@
+/Users/mjones/dev/work/practice-journal/zuulsvr/src/main/java/com/practicejournal/zuulsvr/filters/FilterUtils.java
+/Users/mjones/dev/work/practice-journal/zuulsvr/src/main/java/com/practicejournal/zuulsvr/model/AbTestingRoute.java
+/Users/mjones/dev/work/practice-journal/zuulsvr/src/main/java/com/practicejournal/zuulsvr/config/ServiceConfig.java
+/Users/mjones/dev/work/practice-journal/zuulsvr/src/main/java/com/practicejournal/zuulsvr/filters/TrackingFilter.java
+/Users/mjones/dev/work/practice-journal/zuulsvr/src/main/java/com/practicejournal/zuulsvr/filters/SpecialRoutesFilter.java
+/Users/mjones/dev/work/practice-journal/zuulsvr/src/main/java/com/practicejournal/zuulsvr/filters/AuthenticationFilter.java
+/Users/mjones/dev/work/practice-journal/zuulsvr/src/main/java/com/practicejournal/zuulsvr/model/UserInfo.java
+/Users/mjones/dev/work/practice-journal/zuulsvr/src/main/java/com/practicejournal/zuulsvr/ZuulServerApplication.java
+/Users/mjones/dev/work/practice-journal/zuulsvr/src/main/java/com/practicejournal/zuulsvr/filters/ResponseFilter.java

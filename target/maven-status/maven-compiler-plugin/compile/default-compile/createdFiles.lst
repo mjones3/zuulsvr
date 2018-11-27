@@ -1,0 +1,9 @@
+com/practicejournal/zuulsvr/model/UserInfo.class
+com/practicejournal/zuulsvr/filters/TrackingFilter.class
+com/practicejournal/zuulsvr/filters/ResponseFilter.class
+com/practicejournal/zuulsvr/filters/AuthenticationFilter.class
+com/practicejournal/zuulsvr/filters/SpecialRoutesFilter.class
+com/practicejournal/zuulsvr/config/ServiceConfig.class
+com/practicejournal/zuulsvr/filters/FilterUtils.class
+com/practicejournal/zuulsvr/model/AbTestingRoute.class
+com/practicejournal/zuulsvr/ZuulServerApplication.class
